@@ -1,4 +1,6 @@
 # Vet Clinic Database Management System
+![Database Management System for Vet Clinics and Visualization with Power BI](https://github.com/Coofone/Database-Management-System-for-Vet-Clinics-and-Visualization-with-Power-BI./assets/161744037/4143e1b0-e66d-411f-ad43-e34bfa5bb7db)
+
 
 ## 1.1 What is the  Happy and Healthy System?
 
@@ -9,12 +11,16 @@ It is built to track for customer behavior , Pet care Service. It can provide  s
 ## 1.2 Motivation about the database
 
 Using a database management system in a pet clinic brings numerous benefits, including improved efficiency, better decision-making, better collaboration, and heightened data security. Embracing technology can transform the way pet clinics operate, leading to enhanced patient care and client satisfaction.
+
+
 ![Picture 1](https://github.com/Coofone/Database-Management-System-for-Vet-Clinics-and-Visualization-with-Power-BI./assets/161744037/76d96b6d-eded-4f3d-8c23-4ae1cbd30f04)
 
-## ERD Diagram or Database Design 
+## ERD Diagram , SQL Statements and Query analysis 
+<details>
 
+  <summary> ERD Diagram </summary>  
 ![Picture2](https://github.com/Coofone/Database-Management-System-for-Vet-Clinics-and-Visualization-with-Power-BI./assets/161744037/52304124-1a8a-42e0-a9fa-72371aa35ea1)
-
+</details>
 
 <details>
 <summary>SQL Statement for Database Tables</summary>  
@@ -147,7 +153,7 @@ Foreign key (srp_id) References tbl_emp_service(srp_id)
 
 <details>
 <summary>Questions want to know </summary>  
-## Business Question 
+
 
 + SQL Statements for Answering Questions
 
@@ -328,6 +334,8 @@ ORDER BY customer count DESC
 In earlier sections, we created and added data to our database. Now, let's build a Power BI dashboard to gain deeper business insights. This dashboard consists of three parts. 
 
 #### Dashboard 
+![Capture](https://github.com/Coofone/Database-Management-System-for-Vet-Clinics-and-Visualization-with-Power-BI./assets/161744037/7c4b8489-338b-40c6-bc52-94ac7ad2fff6)
+
 [Happy and Health Vet Clinic Dashbaord.pdf](https://github.com/Coofone/Database-Management-System-for-Vet-Clinics-and-Visualization-with-Power-BI./files/15052200/Happy.and.Health.Vet.Clinic.Dashbaord.pdf)
 
 ### Questions Want to know 
